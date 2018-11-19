@@ -1,0 +1,12 @@
+{
+	"description": "A minimal D application.",
+	"dependencies": {
+		"derelict-lua": "~>1.3.1"
+	},
+	"authors": [
+		"tfcat"
+	],
+	"copyright": "Copyright © 2018, tfcat",
+	"license": "proprietary",
+	"name": "dlanglua"
+}
